@@ -1,0 +1,34 @@
+Le cahier des charges fonctionnel (CdCF)
+Le CdCF demandé fera 10 pages. Il se concentre sur les besoins fonctionnels et la manière dont on
+va traiter le projet sur le temps imparti.
+Le plan
+Le plan du CdCF doit mettre en évidence les éléments suivants :
+Origine et nature du projet : d’où vient l’idée de ce projet, de quel type de jeu il s'agit ?
+Objet de l’étude : quels sont les buts et intérêts de ce projet. Qu’est-ce que cela peut vous
+apporter en groupe ou individuellement ?
+État de l’art : quel est le premier jeu de ce type? Quels sont les principaux autres jeux de ce
+type existants (vous en citerez au minimum trois) ? Quels sont leurs points forts ? Quelles
+sont leurs fonctionnalités propres ?
+Votre entreprise : quelle est son nom ? Ses spécificités ? Quel est son secteur d’activité ? Il
+faut faire du storytelling. Etre inventif, créatif. Se démarquer!
+Votre équipe : il faudra réaliser une biographie de quelques lignes pour chaque membre du
+groupe et expliquer le rôle de chacun dans le projet. Cette biographie doit mettre en valeur
+vos compétences.
+Répartition : le cahier des charges doit contenir un planning détaillé de répartition des tâches
+par personne. Vous le présenterez sous la forme d’un tableau à deux entrées (tâches,
+personnes) avec deux personnes par tâche : le responsable et son suppléant.
+Avancement et planification : le cahier des charges doit contenir un planning détaillé
+d’avancement des tâches par période (temps séparant deux soutenances). Vous le
+présenterez sous la forme d’un tableau à deux entrées (tâches, soutenances) avec un
+pourcentage d’avancement.
+La structure
+La structure doit, au travers du plan présenté ci-dessus, définir votre projet selon les aspects
+suivants :
+Fonctionnel : ce qui est fait ou ce qui doit l’être. Le QUOI !
+Technologique et méthodologique : quels moyens matériels (technologiques) et intellectuels
+(outils, méthodes, logiciels, etc...) seront utilisés. Le COMMENT !
+Opérationnel : quels aspects économiques (coûts, délais, rentabilité, etc...) relatifs aux
+situations de fonctionnement (en opération) doivent être pris en compte ? Le COMBIEN !
+Avertissement
+Deux parties sont indispensables au cahier des charges d’un jeu : le réseau (multi-joueurs) et
+l’Intelligence Artificielle. Sans elle, votre cahier des charges sera refusé.
