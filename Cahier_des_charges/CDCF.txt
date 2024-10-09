@@ -1,4 +1,4 @@
-Le cahier des charges fonctionnel (CdCF)
+Le cahier des charges fonctionnel (CDCF)
 
 Le plan :
 
@@ -15,19 +15,13 @@ apporter en groupe ou individuellement ?
 
 2. Apprendre a travailler en groupe/
 
-- État de l’art : quel est le premier jeu de ce type? Quels sont les principaux autres jeux de ce
-type existants (vous en citerez au minimum trois) ? Quels sont leurs points forts ? Quelles
-sont leurs fonctionnalités propres ?
+État de l'art
+- Premier jeu du genre
 
-1.
+Le premier jeu à avoir réellement établi les bases du genre des expériences immersives psychologiques est System Shock (1994). Il a introduit des éléments de gameplay et de narration qui allaient définir les futurs titres. Avec son mélange d’horreur, de science-fiction et de questionnements éthiques, il a posé des jalons pour les expériences vidéoludiques immersives.
 
-2. 	-
-	-
-	-
-
-3.
-
-4.
+- Principaux jeux du même type
+Parmi les jeux emblématiques du genre des expériences immersives et psychologiques, BioShock se distingue par sa narration immersive et son exploration des thèmes profonds tels que le libre arbitre et les questions morales. Son esthétique crée une atmosphère unique. Les joueurs bénéficient d’un système leurs permettant d'agir avec l’environnement pour résoudre des énigmes et prendre des décisions qui influencent la fin du jeu. De son côté, SOMA aborde des réflexions sur la conscience et l'identité dans une ambiance sous-marine angoissante. Ses points forts incluent une conception immersive et des thèmes profonds qui dépassent le simple cadre de l’horreur. Le jeu propose une interaction avec l'environnement pour résoudre des énigmes, ainsi qu'une mécanique de progression narrative où les choix du joueur impactent l’histoire. Outlast quand à lui se concentre sur l’horreur avec son atmosphère terrifiante, renforcée par des graphismes sombres et une bande-son immersive. L'absence d'armement accentue la peur et l’urgence, et la caméra à vision nocturne impose une gestion stratégique de la batterie, créant une tension constante. Enfin, Amnesia: The Dark Descent introduit une mécanique de santé mentale où l’état psychologique du personnage affecte la perception du joueur, renforçant ainsi l’immersion. Ses énigmes variées et son système de cachette, qui oblige le joueur à se cacher des monstres, favorisent une exploration non linéaire et une immersion intense. Ensemble, ces jeux enrichissent le genre en proposant des récits profonds et des mécaniques de gameplay innovantes.
 
 - Votre entreprise : quelle est son nom ? Ses spécificités ? Quel est son secteur d’activité ? Il
 faut faire du storytelling. Etre inventif, créatif. Se démarquer!
