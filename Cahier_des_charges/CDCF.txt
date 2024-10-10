@@ -23,14 +23,15 @@ Le premier jeu à avoir réellement établi les bases du genre des expériences 
 - Principaux jeux du même type
 Parmi les jeux emblématiques du genre des expériences immersives et psychologiques, BioShock se distingue par sa narration immersive et son exploration des thèmes profonds tels que le libre arbitre et les questions morales. Son esthétique crée une atmosphère unique. Les joueurs bénéficient d’un système leurs permettant d'agir avec l’environnement pour résoudre des énigmes et prendre des décisions qui influencent la fin du jeu. De son côté, SOMA aborde des réflexions sur la conscience et l'identité dans une ambiance sous-marine angoissante. Ses points forts incluent une conception immersive et des thèmes profonds qui dépassent le simple cadre de l’horreur. Le jeu propose une interaction avec l'environnement pour résoudre des énigmes, ainsi qu'une mécanique de progression narrative où les choix du joueur impactent l’histoire. Outlast quand à lui se concentre sur l’horreur avec son atmosphère terrifiante, renforcée par des graphismes sombres et une bande-son immersive. L'absence d'armement accentue la peur et l’urgence, et la caméra à vision nocturne impose une gestion stratégique de la batterie, créant une tension constante. Enfin, Amnesia: The Dark Descent introduit une mécanique de santé mentale où l’état psychologique du personnage affecte la perception du joueur, renforçant ainsi l’immersion. Ses énigmes variées et son système de cachette, qui oblige le joueur à se cacher des monstres, favorisent une exploration non linéaire et une immersion intense. Ensemble, ces jeux enrichissent le genre en proposant des récits profonds et des mécaniques de gameplay innovantes.
 
-- Votre entreprise : quelle est son nom ? Ses spécificités ? Quel est son secteur d’activité ? Il
-faut faire du storytelling. Etre inventif, créatif. Se démarquer!
+Votre entreprise
 
-1. 
+Vortex Studio est un studio de jeu vidéo indépendant, fondé en 2024 par un groupe de cinq amis partageant une passion commune pour les jeux vidéo. Depuis le début de l'aventure, l’équipe a cultivé une vision claire : "l'immersion du joueur avant tout". Cette philosophie guide chaque étape de leur processus créatif, de la conception des jeux à leur développement.
 
-2.
+L’équipe attache une importance particulière à sa communauté de joueurs. Elle s'efforce d’établir un dialogue constant avec eux, en prenant en compte les critiques et les retours d’expérience afin d’améliorer continuellement leurs productions. Cela permet à Vortex Studio de garantir une expérience de jeu optimale et enrichissante, l'engagement du joueur est essentiel.
 
-3.
+Actuellement, le studio est plongé dans le développement de son dernier projet, The Complex. Ce jeu d'escape innovant offre une expérience captivante, jouable en solo ou en coopération. Les joueurs doivent s'échapper d’un laboratoire mystérieux, tout en évitant les griffes de scientifiques assoiffés de pouvoir. Les énigmes et les défis du jeu sont conçus pour immerger les participants dans un univers riche et intrigant, où chaque choix compte.
+
+Vortex Studio aspire à repousser les limites du genre, en intégrant des éléments narratifs profonds et des mécaniques de jeu engageantes qui promettent de captiver les joueurs du début à la fin. En investissant dans la recherche et le développement, l'équipe s’efforce de créer des expériences mémorables qui laissent une empreinte durable dans le cœur des joueurs.
 
 - Votre équipe : il faudra réaliser une biographie de quelques lignes pour chaque membre du
 groupe et expliquer le rôle de chacun dans le projet. Cette biographie doit mettre en valeur
