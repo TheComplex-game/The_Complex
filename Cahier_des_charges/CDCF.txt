@@ -11,9 +11,13 @@ Le plan :
 - Objet de l’étude : quels sont les buts et intérêts de ce projet. Qu’est-ce que cela peut vous
 apporter en groupe ou individuellement ?
 
-1. sensibilisassions 
+Ce projet va nous permettre d’acquérir de nombreuses compétences, à la fois techniques et personnelles. En travaillant sur ce projet, nous allons approfondir nos connaissances en programmation, conception de jeux, modélisation 3D, et même en intelligence artificielle. Cela nous permettra d’apprendre à coder avec Unity. De plus, la création d’un mode multijoueur nous permettra d’en apprendre plus sur la gestion des réseaux et la synchronisation en temps réel entre les joueurs.
+Nous apprendrons aussi à organiser notre travail, à répartir les tâches selon les forces de chacun, et à respecter les délais imposés par nous-même comme par nos professeurs.
+La réalisation de ce projet va aussi stimuler notre créativité, par exemple imaginer des mécaniques de jeu innovantes, concevoir des personnages et un univers captivants ainsi qu’à réfléchir à une histoire intéressante. Cela va nous permettre de rendre l'expérience de jeu immersive.
+Travailler en groupe sur un projet de cette ampleur va nous apprendre à collaborer efficacement. Nous nous rendrons compte de l'importance de la complémentarité dans une équipe, où chacun apporte ses compétences spécifiques.
+Sur le plan individuel, ce projet nous permettra de développer notre autonomie, notre capacité à organiser notre travail et notre résilience face aux défis techniques. Il nous apportera de l'expérience qui sera valorisée par de supposés futurs employeurs. 
+En fin de compte, ce projet va nous permettre de comprendre en profondeur les réalités du développement d’un jeu vidéo et de développer des compétences essentielles qui nous seront utiles, tant collectivement qu’individuellement, dans notre future carrière.
 
-2. Apprendre a travailler en groupe/
 
 État de l'art
 - Premier jeu du genre
